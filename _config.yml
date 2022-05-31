@@ -85,7 +85,7 @@ author:
   bio              : "Graduate student in the University of Minnesota Twin Cities department of Computer Science and Engineering"
   location         : "Minneapolis, Minnesota"
   employer         : "University of Minnesota Twin Cities"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=yMFwshkAAAAJ"
   email            : "mart5877@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
