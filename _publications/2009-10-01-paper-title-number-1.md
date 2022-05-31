@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Duluth at SemEval-2021 Task 11: Applying DeBERTa to Contributing Sentence Selection and Dependency Parsing for Entity Extraction"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-08-duluth-semeval-task11
+excerpt: 'This paper describes the Duluth system that participated in SemEval-2021 Task 11, NLP Contribution Graph. It details the extraction of contribution sentences and scientific entities and their relations from scholarly articles in the domain of Natural Language Processing.'
+date: 2021-08
+venue: 'Proceedings of the Fifteenth Workshop on Semantic Evaluation (SemEval-2021)'
+paperurl: 'https://aclanthology.org/2021.semeval-1.60.pdf'
+citation: 'Anna Martin and Ted Pedersen. (2021). &quot;Duluth at SemEval-2021 Task 11: Applying DeBERTa to Contributing Sentence Selection and Dependency Parsing for Entity Extraction.&quot; <i>Proceedings of the Fifteenth Workshop on Semantic Evaluation (SemEval-2021),</i>. pages 490-501, Online. Association for Computational Linguistics. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://aclanthology.org/2021.semeval-1.60.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: [Duluth at SemEval-2021 Task 11: Applying DeBERTa to Contributing Sentence Selection and Dependency Parsing for Entity Extraction](https://aclanthology.org/2021.semeval-1.60) (Martin & Pedersen, SemEval 2021)
