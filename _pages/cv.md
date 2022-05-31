@@ -20,7 +20,10 @@ Work experience
   * Datastax
   * Built a system health and performance reporting system in Java that collected throughput and latency metrics from multiple components of the code base. Wrote a program to send statistics to a dashboard and organized data so that the system's performance could be observed at a glance by team members.
   * Supervisor: Zach Kurey
-
+* Summer 2021: UMD Research Fellowship
+  * University of Minnesota Duluth
+  * Conducted an annotation project of 254 Shared Task Overview papers published under the ACL.
+  * Supervisor: Dr. Ted Pedersen
 * 2020-2022: Teaching Assistant
   * University of Minnesota Duluth
   * Duties included: Instructing labs, holding discussion sessions, helping students during office hours
