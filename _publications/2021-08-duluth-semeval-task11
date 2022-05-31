@@ -3,7 +3,7 @@ title: "Duluth at SemEval-2021 Task 11: Applying DeBERTa to Contributing Sentenc
 collection: publications
 permalink: /publication/2021-08-duluth-semeval-task11
 excerpt: 'This paper describes the Duluth system that participated in SemEval-2021 Task 11, NLP Contribution Graph. It details the extraction of contribution sentences and scientific entities and their relations from scholarly articles in the domain of Natural Language Processing.'
-date: 2021-08
+date: 2021-08-01
 venue: 'Proceedings of the Fifteenth Workshop on Semantic Evaluation (SemEval-2021)'
 paperurl: 'https://aclanthology.org/2021.semeval-1.60.pdf'
 citation: 'Anna Martin and Ted Pedersen. (2021). &quot;Duluth at SemEval-2021 Task 11: Applying DeBERTa to Contributing Sentence Selection and Dependency Parsing for Entity Extraction.&quot; <i>Proceedings of the Fifteenth Workshop on Semantic Evaluation (SemEval-2021),</i>. pages 490-501, Online. Association for Computational Linguistics. 1(1).'
