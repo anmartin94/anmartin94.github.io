@@ -2,7 +2,7 @@
 title: "Duluth at SemEval-2021 Task 11: Applying DeBERTa to Contributing Sentence Selection and Dependency Parsing for Entity Extraction"
 collection: publications
 permalink: /publication/2021-08-duluth-semeval-task11
-excerpt: 'This paper describes the Duluth system that participated in SemEval-2021 Task 11, NLP Contribution Graph. It details the extraction of contribution sentences and scientific entities and their relations from scholarly articles in the domain of Natural Language Processing.'
+excerpt: 'This paper describes the Duluth system that participated in SemEval-2021 Task 11, NLP Contribution Graph. It details the extraction of contribution sentences and scientific entities and their relations from scholarly articles in the domain of Natural Language Processing. Our solution uses deBERTa for multi-class sentence classification to extract the contributing sentences and their type, and dependency parsing to outline each sentence and extract subject-predicate-object triples. Our system ranked fifth of seven for Phase 1: end-to-end pipeline, sixth of eight for Phase 2 Part 1: phrases and triples, and fifth of eight for Phase 2 Part 2: triples extraction.'
 date: 2021-08-01
 venue: 'Proceedings of the Fifteenth Workshop on Semantic Evaluation (SemEval-2021)'
 paperurl: 'https://aclanthology.org/2021.semeval-1.60.pdf'
