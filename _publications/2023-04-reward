@@ -1,0 +1,14 @@
+---
+title: "Decoding the End-to-end Writing Trajectory in Scholarly Manuscripts"
+collection: publications
+permalink: /publication/2023-04-reward
+excerpt: 'This paper describes the Duluth system that participated in SemEval-2021 Task 11, NLP Contribution Graph. It details the extraction of contribution sentences and scientific entities and their relations from scholarly articles in the domain of Natural Language Processing.'
+date: 2023-04
+venue: 'The Second Workshop on Intelligent and Interactive Writing Assistants at CHI 2023'
+paperurl: 'https://cdn.glitch.global/d058c114-3406-43be-8a3c-d3afff35eda2/paper34_2023.pdf'
+citation: 'Ryan Koo, Anna Martin, Linghe Wang, and Dongyeop Kang. (2023). &quot;Decoding the End-to-end Writing Trajectory in Scholarly Manuscripts.&quot; <i>The Second Workshop on Intelligent and Interactive Writing Assistants at CHI 2023</i>.'
+---
+
+[Download paper here](https://cdn.glitch.global/d058c114-3406-43be-8a3c-d3afff35eda2/paper34_2023.pdf)
+
+Recommended citation: [Decoding the End-to-end Writing Trajectory in Scholarly Manuscripts](https://cdn.glitch.global/d058c114-3406-43be-8a3c-d3afff35eda2/paper34_2023.pdf) (Koo et al., 2023)
