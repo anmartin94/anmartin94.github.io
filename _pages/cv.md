@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Please see my Curriculum Vitae [here](/MartinBoyleCVFall2023.pdf)
+Please see my Curriculum Vitae [here](/MartinBoyleCVSpring2026.pdf)
   
