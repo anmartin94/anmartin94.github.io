@@ -11,6 +11,8 @@ Welcome! I'm Anna Martin-Boyle, a Ph.D. candidate in computer science at the Uni
 
 ## Recent Work
 
+In 2024–2025, I collaborated with researchers at NASA Langley Research Center on a two-part research program investigating how domain experts interact with LLM-based scholarly question-answering systems. In the first work, we developed and validated an expert-derived schema of 20 LLM error patterns across seven categories through contextual inquiries with practicing scientists, revealing how structured evaluation frameworks can help experts catch errors they would otherwise miss. Building on those findings, we designed and evaluated PaperTrail, a novel interface that decomposes LLM answers and source documents into discrete claims and evidence to provide argument-grounded provenance information. Together, these works establish a diagnostic framework for understanding where LLMs fail in scholarly contexts and an interaction paradigm for making those failures visible to researchers in practice.
+
 **Anna Martin-Boyle**, Cara Leckey, Martha Brown, and Harmanpreet Kaur. 2026. [PaperTrail: A Claim-Evidence Interface for Grounding Provenance in LLM-based Scholarly Q&A](../files/chi26-828.pdf). In *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)*, April 13–17, 2026, Barcelona, Spain. ACM, New York, NY, USA.
 
 **Anna Martin-Boyle**, William Humphreys, Martha Brown, Cara Leckey, and Harmanpreet Kaur. 2026. [An Expert Schema for Evaluating Large Language Model Errors in Scholarly Question-Answering Systems](../files/chi26-1550.pdf). In *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)*, April 13–17, 2026, Barcelona, Spain. ACM, New York, NY, USA.
